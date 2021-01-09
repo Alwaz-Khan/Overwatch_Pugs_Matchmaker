@@ -1,0 +1,7 @@
+.idea/
+ow_pug_matchmaker/
+build/
+__pycache__/
+*.spec
+matchup.txt
+teams.txt
